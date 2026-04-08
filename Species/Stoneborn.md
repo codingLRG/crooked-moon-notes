@@ -1,0 +1,1 @@
+Stoneborn are a gargoyle-like species native to [[Pholsense]]

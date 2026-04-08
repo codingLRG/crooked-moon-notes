@@ -1,0 +1,1 @@
+This district-sized, pirate-themed water park features year-round aquatic attractions, such as wave pools, lazy rivers, and the infamous, never-ending [[Captain Bone’s Wild Slide]]. It also serves as [[Funtopia]]’s port, allowing ships from across [[Druskenvald]] to come and go with cargo and passengers that help keep the city thriving.

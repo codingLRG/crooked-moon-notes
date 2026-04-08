@@ -1,0 +1,1 @@
+This sordid syndicate of assassins, spies, and saboteurs prefers to skitter through the sewers and run-down alleys of [[Bubonia]]’s towns and cities. Known for being willing to kill any mark or infiltrate any space if the price is right, they slip through the shadows with envenomed blades to advance the aims of the powerful aristocrats who hire them.

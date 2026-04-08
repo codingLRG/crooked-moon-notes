@@ -1,0 +1,3 @@
+On nights when the moonlight pierces through the dense canopy, a soft, blue mist forms on the breeze and billows into the surrounding forests. [[The Mists of Tirna Féth]] (TEER‐nuh FETH), as they are known in legend, blanket the wood in an eerie dew, thought to be the lost souls of the [[feyfolk]] that once thrived in the glades and glens of [[Ardengloom]].
+Most who find themselves caught in the mist are trapped—forced to wander the gloom forever. The lost no longer have an understanding of time or place, and nearly all meet their end. The lucky few who emerge from the mists tell tales of being helped or hindered
+by confounding [[fey]] spirits or following the ghostly luminance of a [[will-o’-wisp]].

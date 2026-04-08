@@ -1,0 +1,1 @@
+Plagueborn are a rat-like species native to [[Bubonia]]

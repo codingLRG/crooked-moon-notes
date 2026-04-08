@@ -1,0 +1,1 @@
+Kept uncomfortably hot and adorned with the imagery of devils, jesters, and hellfire, this is the center of thrill in the city, where all the most extreme, death-defying rides and attractions can be found. It also contains the headquarters of the [[Honk Legion]], the premier union for [[Picco]]’s numerous fools, led by the beloved clown [[Chookels-Chookels]].

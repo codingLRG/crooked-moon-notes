@@ -1,0 +1,1 @@
+Graveborn are a ghoul-like species native to [[Syndramas]]

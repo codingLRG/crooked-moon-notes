@@ -1,0 +1,1 @@
+Bogborn are a troll-like species native to [[Zulrogg]]

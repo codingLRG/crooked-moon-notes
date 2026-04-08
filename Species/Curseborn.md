@@ -1,0 +1,1 @@
+Curseborn are a werewolf-like species native to [[Edwardia]]

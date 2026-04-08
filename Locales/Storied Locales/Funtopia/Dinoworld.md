@@ -1,0 +1,1 @@
+Amidst towering facsimiles of jungle trees, intricately constructed mechanical dinosaurs fill crowds with awe and delight in a district that encourages exploration and heroic adventure. Also serving as the university district, it features schools that teach only fun subjects.

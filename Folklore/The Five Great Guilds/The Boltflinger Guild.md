@@ -1,0 +1,1 @@
+This order of monster and mutant slayers is filled with highly skilled hunters and trackers that brave the wilds and the haze to seek and destroy the threats to [[Bubonia]]. Given their mission to protect, they may initially seem like the noblest of the guilds; however, they believe no means are too extreme in wiping out the abominations that lurch through the miasma.

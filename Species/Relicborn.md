@@ -1,0 +1,1 @@
+Relicborn are a skeleton-like species native to [[Kalero]]

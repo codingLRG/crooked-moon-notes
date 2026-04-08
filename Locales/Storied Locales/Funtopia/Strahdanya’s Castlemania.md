@@ -1,0 +1,1 @@
+Shrouded in endless darkness, this spooky district focuses on delivering fun-filled frights with haunted houses, dark rides, and other scary attractions. It also serves as the drama hub of the city; every night, the castle-sized [[Cravencroft Theater]] shows a performance of the critically acclaimed stage play [[Curse of Strahdanya]].

@@ -1,0 +1,1 @@
+Lit by bright, vibrantly colored lights and painted with starry scenes of the cosmos, this is [[Funtopia]]’s music district, with concert venues and dance halls on every corner that feature all manner of musical performances. However, much of [[Neonopolis]] is under construction, with flashing signs bearing the promise that the city’s greatest attraction is yet to come.

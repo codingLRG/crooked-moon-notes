@@ -1,0 +1,1 @@
+Gnarlborn (NAR‐ull‐born) are a tree-like species native to [[Ardengloom]]

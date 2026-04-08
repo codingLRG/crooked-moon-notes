@@ -1,0 +1,1 @@
+This union of cheese merchants, butchers, bakers, and other tradespeople specializing in foodstuffs is the wealthiest guild, hawking often rotten wares to starving customers at exorbitant rates. Understanding that people are often motivated by their stomachs, they trade nourishment for power, tightening their grip with each transaction as saviors and exploiters.
