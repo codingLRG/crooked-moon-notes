@@ -1,0 +1,1 @@
+The great twin clocktowers that stand at either end of [[Baskerton]] set the city's rhythm, with every inhabitant waking, sleeping, and going about their night timed by the booming chimes that echo like howling in the night. They also serve as the primary docking stations for the airships that the wealthy use to travel to other provinces.

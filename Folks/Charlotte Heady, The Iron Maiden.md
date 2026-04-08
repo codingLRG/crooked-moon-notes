@@ -1,0 +1,8 @@
+---
+aliases:
+  - Charlotte Heady
+  - The Iron Maiden
+---
+[[Charlotte Heady, The Iron Maiden|Charlotte Heady]] (SHAR‐lit HEE‐dee) was once a [[Curseborn]] who considered herself the ultimate renaissance woman, finding immense passion and success in every pursuit she tried, from invention to music to dueling to alchemy. But in the process of inventing [[Sparktech]], a catastrophic accident annihilated her body and transmuted her soul into raw electricity. Through quick thinking, she was able to bind her soul inside a suit of iron armor before her crackling new form could dissipate. This was the moment she realized that balance could be achieved by embracing both extremes of duality in equal measure instead of walking a middle ground of mediocrity.
+
+Now called [[Charlotte Heady, The Iron Maiden|The Iron Maiden]], [[Charlotte Heady, The Iron Maiden|Heady]] leads [[Edwardia]] with this philosophy in mind, battling [[The Grey]] and the average with every action she takes. She acts as a ruthless inspector one night, before leading a fiery riot to the sound of raucous electric music the next. She strives to increase the province’s quality of life through rampant industrial growth while accepting the sickness and suffering caused by the subsequent pollution. [[Charlotte Heady, The Iron Maiden|The Iron Maiden]] takes no joy in the sacrifices that must be made in the name of progress, but she places the blame on the curse that she believes forced her hand.
