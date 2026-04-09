@@ -1,2 +1,5 @@
-
+---
+race: Gnarlborn
+locale: Ardengloom
+---
 Gnarled [[treants]] are not an uncommon sight in [[Ardengloom]], and [[Elder Gallows]] is by far the oldest and largest of all who walk the woods. The lord of [[Ardengloom]] is so old that only the most timeworn of trees remember his true name, and none, not even [[The Ancient Elderwoods|The Elderwoods]], dare speak it. True to his name, nooses hang interspersed among his knotted branches as a constant reminder of the fate that will befall those who encroach upon and dare to defile his primordial realm. Having borne witness to so much of the forest’s destruction, he has become bitter toward outsiders and even his fellow lords of the [[Crescent Court]]. However, his contempt is controlled by his unmatched patience, for he knows that he and the forest will outlast them all.

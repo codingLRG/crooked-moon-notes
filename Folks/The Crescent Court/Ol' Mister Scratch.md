@@ -1,3 +1,7 @@
+---
+race: Ashborn
+locale: Chernabos
+---
 A hulking devil with red skin, golden eyes, a black mustache, and curved horns, [[Ol' Mister Scratch]] maintains a cool and charming disposition despite his imposing stature, which contrasts drastically with the [[Ashborn]] who comprise a majority of the people he rules over. However,
 this devil takes the decrees of the [[Crescent Court]] as mere suggestions and strives to keep his province lawless, where destiny is determined with free will and the flip of a coin.
 

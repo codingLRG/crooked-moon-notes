@@ -1,0 +1,1 @@
+Every warrior of this faction has total devotion to the legion and their comrades, and this tight-knit fellowship allows this army to fight in perfect synchronicity. Each soldier fiercely pursues mastery of combat, aided by blood magic rituals that provide supernatural strength, precision, and battle instinct.

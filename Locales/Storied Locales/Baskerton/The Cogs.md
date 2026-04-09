@@ -1,0 +1,1 @@
+The industrial heart of the city is polluted by miles of tightly packed factories, warehouses, and energy plants that operate through all hours of the night via revolving shifts that employ a huge portion of the city’s population.

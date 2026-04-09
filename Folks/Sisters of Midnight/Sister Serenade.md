@@ -1,8 +1,9 @@
 ---
 aliases:
   - Serenade
+race:
+locale: Edwardia
 ---
-
 Heartbreak defines and consumes [[Sister Serenade]], the consummate tortured
 musician of the [[Coven of the Midnight Moon]]. Although she always possessed a complete disregard for mortal life, when she lost the love of her life many years ago, she was forever changed into a brooding, hateful witch who loathes joy in others. Donning a dramatic white mask and black cape, she weaves witchcraft through her bombastic music and
 magically manipulates the emotions of her victims toward malign ends.

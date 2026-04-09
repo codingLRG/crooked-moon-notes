@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Races
+    filters:
+      and:
+        - file.folder == "Species"
+    order:
+      - file.name
+      - size
+      - type
+    sort:
+      - property: type
+        direction: DESC
+      - property: size
+        direction: ASC

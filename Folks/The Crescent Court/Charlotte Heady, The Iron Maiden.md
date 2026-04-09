@@ -2,6 +2,8 @@
 aliases:
   - Charlotte Heady
   - The Iron Maiden
+race: Curseborn
+locale: Edwardia
 ---
 [[Charlotte Heady, The Iron Maiden|Charlotte Heady]] (SHAR‐lit HEE‐dee) was once a [[Curseborn]] who considered herself the ultimate renaissance woman, finding immense passion and success in every pursuit she tried, from invention to music to dueling to alchemy. But in the process of inventing [[Sparktech]], a catastrophic accident annihilated her body and transmuted her soul into raw electricity. Through quick thinking, she was able to bind her soul inside a suit of iron armor before her crackling new form could dissipate. This was the moment she realized that balance could be achieved by embracing both extremes of duality in equal measure instead of walking a middle ground of mediocrity.
 

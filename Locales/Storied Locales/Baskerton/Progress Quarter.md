@@ -1,0 +1,1 @@
+This district of workshops, laboratories, and universities draws inventors from across [[Druskenvald]] and beyond to perfect their inventions, showcase them to the public, and receive critiques from the most brilliant minds in the city.

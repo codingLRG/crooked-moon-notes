@@ -1,0 +1,4 @@
+[[Syndramas]] is eternally warred over by three militant legions, each with its own culture, territory, capital, and military hierarchy, as well as specialized tactics, weaponry, and occult arts. Though each is led by a grand general, all three factions pledge fealty to [[Wyrm Queen Sapphira]], who allows and even encourages conflict, so long as it does not spill beyond the borders of the province. The victory condition of each legion is the total annihilation of the other two so they may earn the sole favor of their draconic monarch and prepare for the eventual conquest of the rest of [[Druskenvald]].
+- [[The Rimeshade Legion]]
+- [[The Bloodboil Legion]]
+- [[The Marrowfeast Legion]]

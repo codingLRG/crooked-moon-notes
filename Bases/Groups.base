@@ -1,0 +1,26 @@
+views:
+  - type: table
+    name: The Crescent Court
+    filters:
+      and:
+        - file.inFolder("Folks/The Crescent Court")
+    order:
+      - file.name
+      - locale
+      - race
+    sort:
+      - property: locale
+        direction: ASC
+  - type: table
+    name: Sisters of Midnight
+    filters:
+      and:
+        - file.inFolder("Folks/Sisters of Midnight")
+    order:
+      - file.name
+      - locale
+    sort:
+      - property: locale
+        direction: ASC
+    columnSize:
+      file.name: 197

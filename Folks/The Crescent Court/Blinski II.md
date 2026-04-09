@@ -1,6 +1,8 @@
 ---
 aliases:
   - Blinski
+race: Threadborn
+locale: Picco
 ---
 The gregarious [[Blinski II]] (BLIN‐skee), known for booming laughter and infectious cheer, is the creator of [[Picco]] and most of its inhabitants, whom he builds and repairs with deep affection and care. A master toymaker, he is an automaton himself, with stout, rounded proportions that presumably resemble whomever “[[Blinski the First]]” was, although none remember any master of toys but this second incarnation. Finding the bureaucratic duties of lordship painfully dull, he prefers to travel the province in his mechanical walking workshop, have fun with his subjects, and offer free repairs to the broken.
 

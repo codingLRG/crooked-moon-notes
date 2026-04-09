@@ -1,0 +1,1 @@
+This renowned theater, adorned with metal spikes, is owned by [[Charlotte Heady, The Iron Maiden|Charlotte Heady]], providing a venue for avant-garde dramatic and musical performances featuring elaborate set design and experimental stage effects created by [[Sparktech]] machinery.
